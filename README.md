@@ -11,13 +11,15 @@
 
 ```
 
-My name is:
+My name is: Raymond Rosario
 
-I like to:
+I like to: Play Music and read books
 
-I'm learning:
+I'm learning: Web Development!!!
 
 ```
+
+
 
 4. Add a screenshot (.jpg or .png is fine) of a tweet you've altered using Inspect Element in Chrome to the project folder.
 
